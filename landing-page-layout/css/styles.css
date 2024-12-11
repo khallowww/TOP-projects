@@ -1,8 +1,17 @@
+:root {
+  --primary-dark-color: #1f2937;
+  --base-white: #f9faf8;
+  --base-grey: #e5e7eb;
+  --base-blue: #3882f6;
+  --base-black: #1f2937;
+}
+
+
+*,
 *,
 *::before,
 *::after {
   box-sizing: border-box;
-
 }
 
 * {
