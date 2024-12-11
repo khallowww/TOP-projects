@@ -1,3 +1,5 @@
+/* CSS Variables for Colors  */
+
 :root {
   --primary-dark-color: #1f2937;
   --base-white: #f9faf8;
@@ -6,6 +8,7 @@
   --base-black: #1f2937;
 }
 
+/* CSS Reset  */
 
 *,
 *,
@@ -24,3 +27,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+/* Body Styles  */
+body {
+  font-family: 'Roboto', 'sans-serif';
+}
+
+/* Header Styles  */
